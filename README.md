@@ -4,6 +4,8 @@ Gather public data with our Scraper API and premium proxies boasting 100M+ IPs i
 
 [![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
 
+[![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/Pds3gBmKMH)
+
 ## [Residential proxies](https://oxylabs.io/products/residential-proxy-pool)
 - 100M+ Residential IPs
 - 99.95% success rates
