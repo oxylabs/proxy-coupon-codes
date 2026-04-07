@@ -1,6 +1,6 @@
 # proxy-coupon-codes
 
-Gather public data with our Scraper API and premium proxies boasting 100M+ IPs in 195 countries. Say goodbye to IP blocks and CAPTCHAs. Pay as you go from $10/GB or enjoy a 30% discount.
+Gather public data with our Scraper API and premium proxies boasting 100M+ IPs in 195 countries. Say goodbye to IP blocks and CAPTCHAs.
 
 [![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=877&utm_medium=affiliate&groupid=877&utm_content=proxy-coupon-codes-github&transaction_id=102f49063ab94276ae8f116d224b67)
 
@@ -11,7 +11,6 @@ Gather public data with our Scraper API and premium proxies boasting 100M+ IPs i
 - 99.95% success rates
 - HTTP, HTTPS, SOCKS5
 - Fast performance
-- PAYG $10/GB
 
  ## [Mobile Proxies](https://oxylabs.io/products/mobile-proxies)
 - 20M+ mobile IPs
